@@ -1,0 +1,3 @@
+[submodule "src/LIO-SAM"]
+	path = src/LIO-SAM
+	url = https://github.com/TixiaoShan/LIO-SAM.git
